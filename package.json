@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/melvinioso/adv-node-js#readme",
   "dependencies": {
-    "express": "^4.17.2"
+    "express": "^4.17.2",
+    "webworker-threads": "^0.7.17"
   }
 }
